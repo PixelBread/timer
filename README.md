@@ -1,4 +1,4 @@
-Timer
+# Timer
 Set a timer effortlessly for studying, working, exercising, or any activity you want to keep track of.
 This simple and intuitive app helps you stay focused, manage your time efficiently, and boost your productivity.
 Features include:
